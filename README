@@ -1,0 +1,59 @@
+---
+meta:
+    author:    alex oswald
+    course:    eece 2560
+    semester:  fall 2021
+    group:     philip andress, colin boisvert
+    group-num: 3
+    group-id:  AndBoiOsw
+    professor: ninfang mi
+---
+
+[//]: # (author:    alex oswald)
+[//]: # (course:    eece 2560)
+[//]: # (semester:  fall 2021)
+[//]: # (group:     philip andress, colin boisvert)
+[//]: # (group-num: 3)
+[//]: # (group-id:  AndBoiOsw)
+[//]: # (professor: ninfang mi)
+
+# EECE 2560 – Fundamentals of Engineering Algorithms
+
+Submission convention ex:  `3-AndBoiOsw-5a.zip`
+
+Dev environment:  **Clion** using [CodeWithMe](https://www.jetbrains.com/code-with-me/)
+
+
+Recommended `.zshrc` settings to make life easier:
+
+```zsh
+alias gbuild="g++-11 main.cpp -o main -pedantic -Wall -Wextra -I/opt/homebrew/include/ -Wno-sign-compare"
+alias grun="g++-11 main.cpp -o main -pedantic -Wall -Wextra  -I/opt/homebrew/include/ -Wno-sign-compare; ./main"
+
+alias g++="$(echo /opt/homebrew/Cellar/gcc/*/bin/g++-*)"
+alias gcc="$(echo /opt/homebrew/Cellar/gcc/*/bin/gcc-* | cut -d" " -f1)"
+alias clang="/opt/homebrew/opt/llvm/bin/clang"
+alias clang++="/opt/homebrew/opt/llvm/bin/clang++"
+alias lldb="/opt/homebrew/opt/llvm/bin/lldb"
+alias clangd="/opt/homebrew/opt/llvm/bin/clangd"
+```
+
+Better resources:
+
+ - Library:  [boost](https://www.boost.org/doc/libs/)
+ - Library:  [gnu scientific library](https://www.gnu.org/software/gsl/doc/html/index.html)
+
+#### clangd config for alt txt editors: ~/Library/Preferences/clangd/config.yaml
+
+```yaml
+CompileFlags:
+  Add: [-xc++, -std=c++17, -Wall, -pedantic, -Wextra, -I/opt/homebrew/include/]
+  Remove: [-Wsign-compare]
+
+Diagnostics:
+  ClangTidy:
+    Add: [modernize*, boost*]
+    Remove: misc-definitions-in-headers
+    CheckOptions:
+      readability-identifier-naming.VariableCase: CamelCase
+```
