@@ -1,0 +1,3 @@
+/Users/aozwald/Documents/2560/3-AndBoiOsw-3a/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/aozwald/Documents/2560/3-AndBoiOsw-3a/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aozwald/Documents/2560/3-AndBoiOsw-3a/cmake-build-debug/CMakeFiles/3_AndBoiOsw_3a.dir
