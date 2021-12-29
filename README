@@ -12,6 +12,21 @@ Submission convention ex:  `3-AndBoiOsw-5a.zip`
 
 Dev environment:  **Clion** using [CodeWithMe](https://www.jetbrains.com/code-with-me/)
 
+#### Final Scores
+
+| Name                         | Due                 | Comments                                                                       | 
+|------------------------------|---------------------|--------------------------------------------------------------------------------| 
+| Project #1 MasterMind-a      | 85 / 100            | Significant errors in one important function -- check incorrect is wrong 25/40 | 
+| Project #1 MasterMind-b      | 98 / 100            | small errors in one important function -- no out of range error handler 38/40  | 
+| Project #2, Flip Cards-a     | 100 / 100           | "🥴"                                                                           | 
+| Project #2, Flip Cards-b     | 100 / 100           |                                                                                | 
+| Project #3 Word Search-a     | 100 / 100           |                                                                                | 
+| Project #3 Word Search-b     | 100 / 100           |                                                                                | 
+| Project #4 Sudoku a          | 100 / 100           |                                                                                | 
+| Project #4 Sudoku b          | 115 / 100           | see other [notes](proj4b/README)                                               | 
+| Project #5 Maze a            | 100 / 100           | see other [notes](proj5a/README)                                               | 
+| Total                        | 1,459.00 / 1,500.00 | **A**                                                                          | 
+
 
 Recommended `.zshrc` settings to make life easier:
 
