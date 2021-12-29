@@ -28,7 +28,7 @@ Dev environment:  **Clion** using [CodeWithMe](https://www.jetbrains.com/code-wi
 | Total                        | 1,459.00 / 1,500.00 | **A**                                                                          | 
 
 
-Recommended `.zshrc` settings to make life easier:
+Recommended `.zshrc` settings to make life easier (testing out of clion is od necessary too):
 
 ```zsh
 alias gbuild="g++-11 main.cpp -o main -pedantic -Wall -Wextra -I/opt/homebrew/include/ -Wno-sign-compare"
