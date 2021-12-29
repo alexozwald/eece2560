@@ -1,0 +1,3 @@
+/Users/alexozwald/Documents/eece2560/proj5a/CMakeFiles/proj5a.dir
+/Users/alexozwald/Documents/eece2560/proj5a/CMakeFiles/edit_cache.dir
+/Users/alexozwald/Documents/eece2560/proj5a/CMakeFiles/rebuild_cache.dir
