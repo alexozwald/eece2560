@@ -23,8 +23,8 @@ Dev environment:  **Clion** using [CodeWithMe](https://www.jetbrains.com/code-wi
 | Project #3 Word Search-a     | 100 / 100           |                                                                                | 
 | Project #3 Word Search-b     | 100 / 100           |                                                                                | 
 | Project #4 Sudoku a          | 100 / 100           |                                                                                | 
-| Project #4 Sudoku b          | 115 / 100           | see other [notes](proj4b/README)                                               | 
-| Project #5 Maze a            | 100 / 100           | see other [notes](proj5a/README)                                               | 
+| Project #4 Sudoku b          | 115 / 100           | see other [notes](proj4b/README.md)                                            | 
+| Project #5 Maze a            | 100 / 100           | see other [notes](proj5a/README.md)                                            | 
 | Total                        | 1,459.00 / 1,500.00 | **A**                                                                          | 
 
 
