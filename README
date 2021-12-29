@@ -16,9 +16,9 @@ Dev environment:  **Clion** using [CodeWithMe](https://www.jetbrains.com/code-wi
 
 | Name                         | Due                 | Comments                                                                       | 
 |------------------------------|---------------------|--------------------------------------------------------------------------------| 
-| Project #1 MasterMind-a      | 85 / 100            | Significant errors in one important function -- check incorrect is wrong 25/40 | 
-| Project #1 MasterMind-b      | 98 / 100            | small errors in one important function -- no out of range error handler 38/40  | 
-| Project #2, Flip Cards-a     | 100 / 100           | "🥴"                                                                           | 
+| Project #1 MasterMind-a      | 85 / 100            | Significant errors in one important function -- check<br> incorrect is wrong 25/40 | 
+| Project #1 MasterMind-b      | 98 / 100            | small errors in one important function -- no out of <br>range error handler 38/40.  i think this was also more<br> fkd up than we were docked for bc we started super<br> last min | 
+| Project #2, Flip Cards-a     | 100 / 100           | submission comment: "🥴"                                                       | 
 | Project #2, Flip Cards-b     | 100 / 100           |                                                                                | 
 | Project #3 Word Search-a     | 100 / 100           |                                                                                | 
 | Project #3 Word Search-b     | 100 / 100           |                                                                                | 
